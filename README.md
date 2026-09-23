@@ -8,7 +8,7 @@
 
 <h2>👋 About Me</h2>
 
-🎓 Software Convergence, Daegu Catholic University <br>
+🎓 B.S. Candidate in Software Convergence, Daegu Catholic University <br>
 💻 ML/DL Developer | Aug. 2025 – Present <br>
 🔬 AI Research Engineer <br>
 👁️ Computer Vision · Robust Deep Learning · Noisy Label Learning <br>
@@ -62,24 +62,6 @@ First Author | 2026 <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-
-<br>
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ssh0628&show_icons=true&hide_border=true"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh0628&layout=compact&hide_border=true"
-    height="165"
-  />
-
 </div>
 
 <br>
