@@ -20,14 +20,14 @@
 - Computer Vision
 - Robust Deep Learning
 - Noisy Label Learning
-- Medical / Veterinary AI
+- Medical AI
 - Multimodal Learning
 
 <br>
 
 <h2>📄 Publications</h2>
 
-<b>Multi-ROI Decision Fusion for Robust Classification of Canine Skin Diseases</b> <br>
+<b>Comparative Study of Multi-ROI Decision Fusion and Crop Strategies for Smartphone Camera-Based Pet Skin Disease Remote Diagnosis Assistance</b> <br>
 Journal of the Institute of Electronics and Information Engineers (IEIE) <br>
 First Author | 2026 <br>
 
